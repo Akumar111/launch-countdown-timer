@@ -1,5 +1,7 @@
 # Frontend Mentor - Launch countdown timer
 
+[View this project](https://akumar111.github.io/launch-countdown-timer/)
+
 ![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
